@@ -248,6 +248,26 @@ INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 8
 INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 80, 8004, '', 0, 'Hovedstaden');
 INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 80, 8005, '', 0, 'Sjælland');
 
+-- Finland Regions (id country=94)
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9401, NULL, NULL, 'Uusimaa');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9402, NULL, NULL, 'Varsinais-Suomi');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9404, NULL, NULL, 'Satakunta');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9405, NULL, NULL, 'Kanta-Häme');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9406, NULL, NULL, 'Pirkanmaa');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9407, NULL, NULL, 'Päijät-Häme');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9408, NULL, NULL, 'Kymenlaakso');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9409, NULL, NULL, 'Etelä-Karjala');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9410, NULL, NULL, 'Etelä-Savo');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9411, NULL, NULL, 'Pohjois-Savo');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9412, NULL, NULL, 'Pohjois-Karjala');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9413, NULL, NULL, 'Keski-Suomi');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9414, NULL, NULL, 'Etelä-Pohjanmaa');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9415, NULL, NULL, 'Pohjanmaa');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9416, NULL, NULL, 'Keski-Pohjanmaa');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9417, NULL, NULL, 'Pohjois-Pohjanmaa');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9418, NULL, NULL, 'Kainuu');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9419, NULL, NULL, 'Lappi');
+INSERT INTO llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 94, 9421, NULL, NULL, 'Ahvenanmaa');
 
 -- France Regions (id country=1)
 insert into llx_c_regions (fk_pays, code_region, cheflieu, tncc, nom) values ( 1,  1, '97105', 3, 'Guadeloupe');
